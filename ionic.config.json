@@ -1,5 +1,8 @@
 {
   "name": "TabsTest",
-  "integrations": {},
-  "type": "angular"
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "78bd0e9d"
 }
